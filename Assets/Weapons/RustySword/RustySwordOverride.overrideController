@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RustySwordOverride
+  m_Controller: {fileID: 9100000, guid: 6bac112b53ce74e0ebd996ef64a87e7a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 057be579048e9462ea29348d5dddbfcd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 057be579048e9462ea29348d5dddbfcd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2dde2cce4e8574b7685f058fdac77bf6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8e5ed7611f5184a3783030e76faf7cb5, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: d6e8aaf143d79df4a886177d6c12aa6a, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: d6e8aaf143d79df4a886177d6c12aa6a, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: ee0bd63525d327a46baf3d5d575c2896, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: ee0bd63525d327a46baf3d5d575c2896, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e5ed7611f5184a3783030e76faf7cb5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8e5ed7611f5184a3783030e76faf7cb5, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 6e2eb0ac676d3694a997e010d582c3fe, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 6e2eb0ac676d3694a997e010d582c3fe, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 8f6ce376c0fa3dc4da14a99d787f803f, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 8f6ce376c0fa3dc4da14a99d787f803f, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81aa5aba0b7f5416bb9ea195ec45341f, type: 3}
+  m_Name: RustySwordData
+  m_EditorClassIdentifier: Assembly-CSharp::weapon.WeaponData
+  baseDamage: 10
+  weaponWeight: 2
+  weaponName: Rusty Sword
+  weaponAnimator: {fileID: 22100000, guid: aa93004806a6a4b2fa298b8c1545dedd, type: 2}

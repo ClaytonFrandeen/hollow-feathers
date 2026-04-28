@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8078866e0e6c39249adfd6be79e2f553, type: 3}
+  m_Name: JumpPoints_Data
+  m_EditorClassIdentifier: Assembly-CSharp::BossArenaWaypoints
+  waypoints:
+  - pointName: Middle_Side1_HighPoint
+    position: {x: 48.09076, y: 249.10503, z: -338.55978}
+    type: 1
+    groupName: Middle_Side1
+  - pointName: Middle_Side1_BottomPoint
+    position: {x: 26.040756, y: 138.99966, z: -357.80978}
+    type: 0
+    groupName: Middle_Side1
+  - pointName: Middle_Side2_BottomPoint
+    position: {x: -124.25924, y: 129.42468, z: -347.96976}
+    type: 0
+    groupName: Middle_Side2
+  - pointName: CenterPoint
+    position: {x: -7.129242, y: 118.24893, z: -400.55978}
+    type: 2
+    groupName: 
+  - pointName: Back_HighPoint
+    position: {x: -25.679241, y: 243.638, z: -507.30978}
+    type: 1
+    groupName: Back_HighPoint
+  - pointName: Back_BottomPoint
+    position: {x: -72.00924, y: 148.05568, z: -453.40976}
+    type: 0
+    groupName: Back_BottomPoint
